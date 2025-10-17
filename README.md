@@ -2,8 +2,7 @@
 
 Aplicação web desenvolvida como projeto para a disciplina de Projetos Computacionais do curso de Ciência da Computação. O sistema permite o gerenciamento completo (CRUD) de um catálogo pessoal de livros, filmes e séries, com uma interface moderna e responsiva.
 
-![Demonstração da Aplicação](URL_DA_IMAGEM_AQUI)
-> **Ação:** Tire um print bonito da sua tela de listagem com o tema dark e faça o upload no seu repositório GitHub. Depois, copie o link da imagem e cole no lugar de `URL_DA_IMAGEM_AQUI`.
+![Demonstração da Aplicação](https://github.com/cicerojr10/ProjetoBiblioteca/blob/main/images/projetoImagem.png?raw=true)
 
 ---
 
